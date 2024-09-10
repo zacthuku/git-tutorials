@@ -1,2 +1,2 @@
-alert("my txt");
+alert("my code");
 console.log("make changes");
