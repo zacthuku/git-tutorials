@@ -1,2 +1,2 @@
 console.log("hello world");
-console.log("learn github");
+console.log("learn git and github");
