@@ -1,2 +1,2 @@
 console.log("hello zacthuku");
-console.log("doing fine");
+console.log("doing fine too");
